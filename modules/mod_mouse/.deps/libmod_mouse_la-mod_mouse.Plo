@@ -1,0 +1,52 @@
+libmod_mouse_la-mod_mouse.lo: mod_mouse.c \
+ /home/steward/Github/gh_retrogame_emulator/bennugd/modules/../core/include/bgddl.h \
+ /home/steward/Github/gh_retrogame_emulator/bennugd/modules/../core/include/arrange.h \
+ /home/steward/Downloads/buildroot-2017.02.9/output/host/usr/lib/gcc/mipsel-buildroot-linux-uclibc/5.4.0/include/stdint.h \
+ /home/steward/Downloads/buildroot-2017.02.9/output/host/usr/mipsel-buildroot-linux-uclibc/sysroot/usr/include/stdint.h \
+ /home/steward/Downloads/buildroot-2017.02.9/output/host/usr/mipsel-buildroot-linux-uclibc/sysroot/usr/include/features.h \
+ /home/steward/Downloads/buildroot-2017.02.9/output/host/usr/mipsel-buildroot-linux-uclibc/sysroot/usr/include/bits/uClibc_config.h \
+ /home/steward/Downloads/buildroot-2017.02.9/output/host/usr/mipsel-buildroot-linux-uclibc/sysroot/usr/include/sys/cdefs.h \
+ /home/steward/Downloads/buildroot-2017.02.9/output/host/usr/mipsel-buildroot-linux-uclibc/sysroot/usr/include/bits/wchar.h \
+ /home/steward/Downloads/buildroot-2017.02.9/output/host/usr/mipsel-buildroot-linux-uclibc/sysroot/usr/include/bits/wordsize.h \
+ /home/steward/Github/gh_retrogame_emulator/bennugd/modules/../core/include/typedef_st.h \
+ /home/steward/Github/gh_retrogame_emulator/bennugd/modules/../core/include/instance_st.h \
+ /home/steward/Github/gh_retrogame_emulator/bennugd/modules/../core/include/sysprocs_st.h \
+ /home/steward/Github/gh_retrogame_emulator/bennugd/modules/../core/include/instance.h \
+ /home/steward/Github/gh_retrogame_emulator/bennugd/modules/../core/include/i_procdef_st.h \
+ /home/steward/Github/gh_retrogame_emulator/bennugd/modules/../core/include/instance_st.h \
+ /home/steward/Github/gh_retrogame_emulator/bennugd/modules/../core/include/commons_defs.h \
+ mod_mouse_exports.h
+
+/home/steward/Github/gh_retrogame_emulator/bennugd/modules/../core/include/bgddl.h:
+
+/home/steward/Github/gh_retrogame_emulator/bennugd/modules/../core/include/arrange.h:
+
+/home/steward/Downloads/buildroot-2017.02.9/output/host/usr/lib/gcc/mipsel-buildroot-linux-uclibc/5.4.0/include/stdint.h:
+
+/home/steward/Downloads/buildroot-2017.02.9/output/host/usr/mipsel-buildroot-linux-uclibc/sysroot/usr/include/stdint.h:
+
+/home/steward/Downloads/buildroot-2017.02.9/output/host/usr/mipsel-buildroot-linux-uclibc/sysroot/usr/include/features.h:
+
+/home/steward/Downloads/buildroot-2017.02.9/output/host/usr/mipsel-buildroot-linux-uclibc/sysroot/usr/include/bits/uClibc_config.h:
+
+/home/steward/Downloads/buildroot-2017.02.9/output/host/usr/mipsel-buildroot-linux-uclibc/sysroot/usr/include/sys/cdefs.h:
+
+/home/steward/Downloads/buildroot-2017.02.9/output/host/usr/mipsel-buildroot-linux-uclibc/sysroot/usr/include/bits/wchar.h:
+
+/home/steward/Downloads/buildroot-2017.02.9/output/host/usr/mipsel-buildroot-linux-uclibc/sysroot/usr/include/bits/wordsize.h:
+
+/home/steward/Github/gh_retrogame_emulator/bennugd/modules/../core/include/typedef_st.h:
+
+/home/steward/Github/gh_retrogame_emulator/bennugd/modules/../core/include/instance_st.h:
+
+/home/steward/Github/gh_retrogame_emulator/bennugd/modules/../core/include/sysprocs_st.h:
+
+/home/steward/Github/gh_retrogame_emulator/bennugd/modules/../core/include/instance.h:
+
+/home/steward/Github/gh_retrogame_emulator/bennugd/modules/../core/include/i_procdef_st.h:
+
+/home/steward/Github/gh_retrogame_emulator/bennugd/modules/../core/include/instance_st.h:
+
+/home/steward/Github/gh_retrogame_emulator/bennugd/modules/../core/include/commons_defs.h:
+
+mod_mouse_exports.h:

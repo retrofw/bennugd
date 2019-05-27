@@ -1,0 +1,139 @@
+libmod_say_la-mod_say.lo: mod_say.c \
+ /home/steward/Downloads/buildroot-2017.02.9/output/host/usr/mipsel-buildroot-linux-uclibc/sysroot/usr/include/stdio.h \
+ /home/steward/Downloads/buildroot-2017.02.9/output/host/usr/mipsel-buildroot-linux-uclibc/sysroot/usr/include/features.h \
+ /home/steward/Downloads/buildroot-2017.02.9/output/host/usr/mipsel-buildroot-linux-uclibc/sysroot/usr/include/bits/uClibc_config.h \
+ /home/steward/Downloads/buildroot-2017.02.9/output/host/usr/mipsel-buildroot-linux-uclibc/sysroot/usr/include/sys/cdefs.h \
+ /home/steward/Downloads/buildroot-2017.02.9/output/host/usr/lib/gcc/mipsel-buildroot-linux-uclibc/5.4.0/include/stddef.h \
+ /home/steward/Downloads/buildroot-2017.02.9/output/host/usr/mipsel-buildroot-linux-uclibc/sysroot/usr/include/bits/types.h \
+ /home/steward/Downloads/buildroot-2017.02.9/output/host/usr/mipsel-buildroot-linux-uclibc/sysroot/usr/include/bits/wordsize.h \
+ /home/steward/Downloads/buildroot-2017.02.9/output/host/usr/mipsel-buildroot-linux-uclibc/sysroot/usr/include/bits/typesizes.h \
+ /home/steward/Downloads/buildroot-2017.02.9/output/host/usr/mipsel-buildroot-linux-uclibc/sysroot/usr/include/bits/uClibc_stdio.h \
+ /home/steward/Downloads/buildroot-2017.02.9/output/host/usr/mipsel-buildroot-linux-uclibc/sysroot/usr/include/wchar.h \
+ /home/steward/Downloads/buildroot-2017.02.9/output/host/usr/mipsel-buildroot-linux-uclibc/sysroot/usr/include/bits/wchar.h \
+ /home/steward/Downloads/buildroot-2017.02.9/output/host/usr/mipsel-buildroot-linux-uclibc/sysroot/usr/include/bits/pthreadtypes.h \
+ /home/steward/Downloads/buildroot-2017.02.9/output/host/usr/mipsel-buildroot-linux-uclibc/sysroot/usr/include/endian.h \
+ /home/steward/Downloads/buildroot-2017.02.9/output/host/usr/mipsel-buildroot-linux-uclibc/sysroot/usr/include/bits/endian.h \
+ /home/steward/Downloads/buildroot-2017.02.9/output/host/usr/mipsel-buildroot-linux-uclibc/sysroot/usr/include/byteswap.h \
+ /home/steward/Downloads/buildroot-2017.02.9/output/host/usr/mipsel-buildroot-linux-uclibc/sysroot/usr/include/bits/byteswap.h \
+ /home/steward/Downloads/buildroot-2017.02.9/output/host/usr/mipsel-buildroot-linux-uclibc/sysroot/usr/include/bits/byteswap-common.h \
+ /home/steward/Downloads/buildroot-2017.02.9/output/host/usr/mipsel-buildroot-linux-uclibc/sysroot/usr/include/bits/byteswap-16.h \
+ /home/steward/Downloads/buildroot-2017.02.9/output/host/usr/mipsel-buildroot-linux-uclibc/sysroot/usr/include/sgidefs.h \
+ /home/steward/Downloads/buildroot-2017.02.9/output/host/usr/lib/gcc/mipsel-buildroot-linux-uclibc/5.4.0/include/stdarg.h \
+ /home/steward/Downloads/buildroot-2017.02.9/output/host/usr/mipsel-buildroot-linux-uclibc/sysroot/usr/include/bits/stdio_lim.h \
+ /home/steward/Downloads/buildroot-2017.02.9/output/host/usr/mipsel-buildroot-linux-uclibc/sysroot/usr/include/stdlib.h \
+ /home/steward/Downloads/buildroot-2017.02.9/output/host/usr/mipsel-buildroot-linux-uclibc/sysroot/usr/include/bits/waitflags.h \
+ /home/steward/Downloads/buildroot-2017.02.9/output/host/usr/mipsel-buildroot-linux-uclibc/sysroot/usr/include/bits/waitstatus.h \
+ /home/steward/Downloads/buildroot-2017.02.9/output/host/usr/mipsel-buildroot-linux-uclibc/sysroot/usr/include/sys/types.h \
+ /home/steward/Downloads/buildroot-2017.02.9/output/host/usr/mipsel-buildroot-linux-uclibc/sysroot/usr/include/time.h \
+ /home/steward/Downloads/buildroot-2017.02.9/output/host/usr/mipsel-buildroot-linux-uclibc/sysroot/usr/include/sys/select.h \
+ /home/steward/Downloads/buildroot-2017.02.9/output/host/usr/mipsel-buildroot-linux-uclibc/sysroot/usr/include/bits/select.h \
+ /home/steward/Downloads/buildroot-2017.02.9/output/host/usr/mipsel-buildroot-linux-uclibc/sysroot/usr/include/bits/sigset.h \
+ /home/steward/Downloads/buildroot-2017.02.9/output/host/usr/mipsel-buildroot-linux-uclibc/sysroot/usr/include/bits/time.h \
+ /home/steward/Downloads/buildroot-2017.02.9/output/host/usr/mipsel-buildroot-linux-uclibc/sysroot/usr/include/sys/sysmacros.h \
+ /home/steward/Downloads/buildroot-2017.02.9/output/host/usr/mipsel-buildroot-linux-uclibc/sysroot/usr/include/alloca.h \
+ /home/steward/Downloads/buildroot-2017.02.9/output/host/usr/mipsel-buildroot-linux-uclibc/sysroot/usr/include/string.h \
+ /home/steward/Github/gh_retrogame_emulator/bennugd/modules/../core/include/bgddl.h \
+ /home/steward/Github/gh_retrogame_emulator/bennugd/modules/../core/include/arrange.h \
+ /home/steward/Downloads/buildroot-2017.02.9/output/host/usr/lib/gcc/mipsel-buildroot-linux-uclibc/5.4.0/include/stdint.h \
+ /home/steward/Downloads/buildroot-2017.02.9/output/host/usr/mipsel-buildroot-linux-uclibc/sysroot/usr/include/stdint.h \
+ /home/steward/Github/gh_retrogame_emulator/bennugd/modules/../core/include/typedef_st.h \
+ /home/steward/Github/gh_retrogame_emulator/bennugd/modules/../core/include/instance_st.h \
+ /home/steward/Github/gh_retrogame_emulator/bennugd/modules/../core/include/sysprocs_st.h \
+ /home/steward/Github/gh_retrogame_emulator/bennugd/modules/../core/include/instance.h \
+ /home/steward/Github/gh_retrogame_emulator/bennugd/modules/../core/include/i_procdef_st.h \
+ /home/steward/Github/gh_retrogame_emulator/bennugd/modules/../core/include/instance_st.h \
+ /home/steward/Github/gh_retrogame_emulator/bennugd/modules/../core/include/commons_defs.h \
+ /home/steward/Github/gh_retrogame_emulator/bennugd/modules/../core/include/xstrings.h \
+ mod_say_exports.h
+
+/home/steward/Downloads/buildroot-2017.02.9/output/host/usr/mipsel-buildroot-linux-uclibc/sysroot/usr/include/stdio.h:
+
+/home/steward/Downloads/buildroot-2017.02.9/output/host/usr/mipsel-buildroot-linux-uclibc/sysroot/usr/include/features.h:
+
+/home/steward/Downloads/buildroot-2017.02.9/output/host/usr/mipsel-buildroot-linux-uclibc/sysroot/usr/include/bits/uClibc_config.h:
+
+/home/steward/Downloads/buildroot-2017.02.9/output/host/usr/mipsel-buildroot-linux-uclibc/sysroot/usr/include/sys/cdefs.h:
+
+/home/steward/Downloads/buildroot-2017.02.9/output/host/usr/lib/gcc/mipsel-buildroot-linux-uclibc/5.4.0/include/stddef.h:
+
+/home/steward/Downloads/buildroot-2017.02.9/output/host/usr/mipsel-buildroot-linux-uclibc/sysroot/usr/include/bits/types.h:
+
+/home/steward/Downloads/buildroot-2017.02.9/output/host/usr/mipsel-buildroot-linux-uclibc/sysroot/usr/include/bits/wordsize.h:
+
+/home/steward/Downloads/buildroot-2017.02.9/output/host/usr/mipsel-buildroot-linux-uclibc/sysroot/usr/include/bits/typesizes.h:
+
+/home/steward/Downloads/buildroot-2017.02.9/output/host/usr/mipsel-buildroot-linux-uclibc/sysroot/usr/include/bits/uClibc_stdio.h:
+
+/home/steward/Downloads/buildroot-2017.02.9/output/host/usr/mipsel-buildroot-linux-uclibc/sysroot/usr/include/wchar.h:
+
+/home/steward/Downloads/buildroot-2017.02.9/output/host/usr/mipsel-buildroot-linux-uclibc/sysroot/usr/include/bits/wchar.h:
+
+/home/steward/Downloads/buildroot-2017.02.9/output/host/usr/mipsel-buildroot-linux-uclibc/sysroot/usr/include/bits/pthreadtypes.h:
+
+/home/steward/Downloads/buildroot-2017.02.9/output/host/usr/mipsel-buildroot-linux-uclibc/sysroot/usr/include/endian.h:
+
+/home/steward/Downloads/buildroot-2017.02.9/output/host/usr/mipsel-buildroot-linux-uclibc/sysroot/usr/include/bits/endian.h:
+
+/home/steward/Downloads/buildroot-2017.02.9/output/host/usr/mipsel-buildroot-linux-uclibc/sysroot/usr/include/byteswap.h:
+
+/home/steward/Downloads/buildroot-2017.02.9/output/host/usr/mipsel-buildroot-linux-uclibc/sysroot/usr/include/bits/byteswap.h:
+
+/home/steward/Downloads/buildroot-2017.02.9/output/host/usr/mipsel-buildroot-linux-uclibc/sysroot/usr/include/bits/byteswap-common.h:
+
+/home/steward/Downloads/buildroot-2017.02.9/output/host/usr/mipsel-buildroot-linux-uclibc/sysroot/usr/include/bits/byteswap-16.h:
+
+/home/steward/Downloads/buildroot-2017.02.9/output/host/usr/mipsel-buildroot-linux-uclibc/sysroot/usr/include/sgidefs.h:
+
+/home/steward/Downloads/buildroot-2017.02.9/output/host/usr/lib/gcc/mipsel-buildroot-linux-uclibc/5.4.0/include/stdarg.h:
+
+/home/steward/Downloads/buildroot-2017.02.9/output/host/usr/mipsel-buildroot-linux-uclibc/sysroot/usr/include/bits/stdio_lim.h:
+
+/home/steward/Downloads/buildroot-2017.02.9/output/host/usr/mipsel-buildroot-linux-uclibc/sysroot/usr/include/stdlib.h:
+
+/home/steward/Downloads/buildroot-2017.02.9/output/host/usr/mipsel-buildroot-linux-uclibc/sysroot/usr/include/bits/waitflags.h:
+
+/home/steward/Downloads/buildroot-2017.02.9/output/host/usr/mipsel-buildroot-linux-uclibc/sysroot/usr/include/bits/waitstatus.h:
+
+/home/steward/Downloads/buildroot-2017.02.9/output/host/usr/mipsel-buildroot-linux-uclibc/sysroot/usr/include/sys/types.h:
+
+/home/steward/Downloads/buildroot-2017.02.9/output/host/usr/mipsel-buildroot-linux-uclibc/sysroot/usr/include/time.h:
+
+/home/steward/Downloads/buildroot-2017.02.9/output/host/usr/mipsel-buildroot-linux-uclibc/sysroot/usr/include/sys/select.h:
+
+/home/steward/Downloads/buildroot-2017.02.9/output/host/usr/mipsel-buildroot-linux-uclibc/sysroot/usr/include/bits/select.h:
+
+/home/steward/Downloads/buildroot-2017.02.9/output/host/usr/mipsel-buildroot-linux-uclibc/sysroot/usr/include/bits/sigset.h:
+
+/home/steward/Downloads/buildroot-2017.02.9/output/host/usr/mipsel-buildroot-linux-uclibc/sysroot/usr/include/bits/time.h:
+
+/home/steward/Downloads/buildroot-2017.02.9/output/host/usr/mipsel-buildroot-linux-uclibc/sysroot/usr/include/sys/sysmacros.h:
+
+/home/steward/Downloads/buildroot-2017.02.9/output/host/usr/mipsel-buildroot-linux-uclibc/sysroot/usr/include/alloca.h:
+
+/home/steward/Downloads/buildroot-2017.02.9/output/host/usr/mipsel-buildroot-linux-uclibc/sysroot/usr/include/string.h:
+
+/home/steward/Github/gh_retrogame_emulator/bennugd/modules/../core/include/bgddl.h:
+
+/home/steward/Github/gh_retrogame_emulator/bennugd/modules/../core/include/arrange.h:
+
+/home/steward/Downloads/buildroot-2017.02.9/output/host/usr/lib/gcc/mipsel-buildroot-linux-uclibc/5.4.0/include/stdint.h:
+
+/home/steward/Downloads/buildroot-2017.02.9/output/host/usr/mipsel-buildroot-linux-uclibc/sysroot/usr/include/stdint.h:
+
+/home/steward/Github/gh_retrogame_emulator/bennugd/modules/../core/include/typedef_st.h:
+
+/home/steward/Github/gh_retrogame_emulator/bennugd/modules/../core/include/instance_st.h:
+
+/home/steward/Github/gh_retrogame_emulator/bennugd/modules/../core/include/sysprocs_st.h:
+
+/home/steward/Github/gh_retrogame_emulator/bennugd/modules/../core/include/instance.h:
+
+/home/steward/Github/gh_retrogame_emulator/bennugd/modules/../core/include/i_procdef_st.h:
+
+/home/steward/Github/gh_retrogame_emulator/bennugd/modules/../core/include/instance_st.h:
+
+/home/steward/Github/gh_retrogame_emulator/bennugd/modules/../core/include/commons_defs.h:
+
+/home/steward/Github/gh_retrogame_emulator/bennugd/modules/../core/include/xstrings.h:
+
+mod_say_exports.h:
